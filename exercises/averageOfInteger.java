@@ -1,6 +1,6 @@
 package exercises;
 
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class averageOfInteger {
 	/*
